@@ -10,6 +10,7 @@ public class DemoController {
     @RequestMapping("/login")
     public String login(){
         System.out.println("aaaaa01");
+        System.out.println("123");
         return "测试成功！";
     }
 
