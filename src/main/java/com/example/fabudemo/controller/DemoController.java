@@ -11,7 +11,7 @@ public class DemoController {
     public String login(){
         System.out.println("aaaaa01");
         System.out.println("123");
-        return "jenkins测试成功！！！";
+        return "jenkins测试成功！！！...";
     }
 
 
